@@ -19,5 +19,5 @@ Aplikasi manajemen stok barang berbasis web yang dibuat untuk memenuhi tugas Pra
 2. Pindahkan folder projek ke dalam directory `C:/xampp/htdocs/`.
 3. Buka **phpMyAdmin** (`http://localhost/phpmyadmin`).
 4. Buat database baru bernama `db_stok_barang`.
-5. *Import* file `database.sql` yang ada di dalam folder projek.
+5. *Import* file `.sql` yang ada di dalam folder projek.
 6. Akses aplikasi di browser melalui `http://localhost/web-CRUD-stok-barang`.
